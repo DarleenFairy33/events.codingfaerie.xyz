@@ -1,0 +1,58 @@
+.jersey-10-regular{
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tiny5-regular{
+  font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comic-neue-light{
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.comic-neue-regular{
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comic-neue-bold{
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.comic-neue-light-italic{
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.comic-neue-regular-italic{
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.comic-neue-bold-italic{
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: italic;
+}
+
+header{
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+body{
+  background-image: url("tumblr_7800ff667b45f072b1813f05f2d3b788_976d4012_400.webp");
+  color: white;
+}
