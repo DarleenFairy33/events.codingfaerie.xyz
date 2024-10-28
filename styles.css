@@ -56,3 +56,24 @@ body{
   background-image: url("tumblr_7800ff667b45f072b1813f05f2d3b788_976d4012_400.webp");
   color: white;
 }
+
+nav{
+  background-color: black;
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+}
+
+nav a{
+  background-color: black;
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+}
+
+.SILLYGUYS{
+  margin-top: 50px;
+  text-align: center;
+}
